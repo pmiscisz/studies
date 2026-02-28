@@ -1,0 +1,13 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model string
+    @Html.TextArea("", Model, new
+        {
+            cols = 40,
+            rows = 10,
+            @class = "form-control"
+        })
+
+}

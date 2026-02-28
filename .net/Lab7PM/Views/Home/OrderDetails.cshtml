@@ -1,0 +1,74 @@
+﻿@model Web_App_DB_First.Models.Invoice
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h1>Order Details</h1>
+
+<h3>Invoice</h3>
+
+<div class="container p-0">
+    <div class="row">
+        <div class="col-sm-3 font-weight-bold">Invoice ID</div>
+        <div class="col-sm-9">@Html.DisplayFor(model => model.InvoiceId)</div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3 font-weight-bold">Invoice Date</div>
+        <div class="col-sm-9">@Html.DisplayFor(model => model.InvoiceDate)</div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3 font-weight-bold">Billing Address</div>
+        <div class="col-sm-9">
+            @Model.BillingAddress @Model.BillingPostalCode @Model.BillingCity @Model.BillingState @Model.BillingCountry
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3 font-weight-bold">Total</div>
+        <div class="col-sm-9">
+            @Html.DisplayFor(model => model.Total)
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3 font-weight-bold">Ordered Songs</div>
+    </div>
+</div>
+
+<hr />
+
+@if (Model.InvoiceLines != null && Model.InvoiceLines.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th class="border-top-0">Track ID</th> 
+                <th class="border-top-0">Track</th>
+                <th class="border-top-0 text-right">Price</th> 
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var line in Model.InvoiceLines)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => line.Track.TrackId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => line.Track.Name)
+                    </td>
+                    <td class="text-right">
+                        @Html.DisplayFor(modelItem => line.UnitPrice)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Brak utworów w zamówieniu.</p>
+}
+
+<div class="mt-4">
+    <a asp-action="MyOrders">Back to List</a>
+</div>

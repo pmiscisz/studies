@@ -1,0 +1,30 @@
+﻿@using Microsoft.AspNetCore.Identity
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@inject SignInManager<Web_App_DB_First.Areas.Identity.Data.ApplicationUser> SignInManager
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @if (SignInManager.IsSignedIn(User))
+    {
+            <p>
+                Orders: <a asp-controller="Home" asp-action="MyOrders">Moje Zamówienia</a>
+            </p>
+    }
+    else
+    {
+            <p>Zaloguj się, aby zobaczyć swoje zamówienia.</p>
+    }
+        <hr />
+        <div>
+            <ul>
+                 @foreach (var item in Model)
+                 {
+                   <li>@item.Email</li>
+                 }
+        </ul>
+    </div>
+</div>

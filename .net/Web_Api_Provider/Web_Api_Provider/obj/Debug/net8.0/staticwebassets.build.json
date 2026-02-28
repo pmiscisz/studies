@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "Hash": "dD1EYo75ymoZrx6xi9F4U+jPIVHI9WNSknlTIjDH5SQ=",
+  "Source": "Web_Api_Provider",
+  "BasePath": "_content/Web_Api_Provider",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web_Api_Provider\\wwwroot",
+      "Source": "Web_Api_Provider",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\1.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x7uf6ascpn",
+      "Integrity": "vTRF/lVYuJYVXHGrH1GDjXtW8pk++t1Ds468bPPrIgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\10.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/10#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jhqq2rdzby",
+      "Integrity": "lyaPYbKKkfBrfZPHs99/WsV4hPlOY6hxLM7RRQpiLyQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\10.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\2.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9frtbirvxj",
+      "Integrity": "6+yjbsGDVuHdM0SCLqVGITJtxPdszpz5SgZXVoCc2EQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\3.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ul671w0q2",
+      "Integrity": "+EBp/VrEjin482B4VnYUhk3i8XJAab23HbV+G86InOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\4.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "desvcf7coa",
+      "Integrity": "e8YxfyAZZPnJMDPT49bPZXYtkQzOVnFn59fOCG46/JE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\5.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o0dw2v3iu4",
+      "Integrity": "GCjgLL1ou7zDG5/gPojbQ29b2QHlCtPncuzfQUnKlSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\6.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dh1riu8ypf",
+      "Integrity": "QcpBlt5Qvj8srZJi9oAt0y4c/1e0UF9ApFNrmAmgQiY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\7.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ms3bigfzn",
+      "Integrity": "nebRvJWXH7l5ZEVP23VzQHXsFfNMjNEZUWYhLOGBRuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\8.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3cp2b8c5gk",
+      "Integrity": "w/fcgmfwsaYiCR2KHdlckG68RD70nXJJdRzFeMWaLlA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\9.jpg",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "images/9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4wn9av7v0h",
+      "Integrity": "NDc4bOC4atED9pb9SEmzdHW7Ko7Snag8ft/CkMS52vM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\index.html",
+      "SourceId": "Web_Api_Provider",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\",
+      "BasePath": "_content/Web_Api_Provider",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mlvprav0n7",
+      "Integrity": "xkD5uxVB7+38KvFHkalj67qhBgWfPjarhY7+NQovsLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/1.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTRF/lVYuJYVXHGrH1GDjXtW8pk++t1Ds468bPPrIgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTRF/lVYuJYVXHGrH1GDjXtW8pk++t1Ds468bPPrIgs="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.x7uf6ascpn.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vTRF/lVYuJYVXHGrH1GDjXtW8pk++t1Ds468bPPrIgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x7uf6ascpn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vTRF/lVYuJYVXHGrH1GDjXtW8pk++t1Ds468bPPrIgs="
+        }
+      ]
+    },
+    {
+      "Route": "images/10.jhqq2rdzby.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lyaPYbKKkfBrfZPHs99/WsV4hPlOY6hxLM7RRQpiLyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jhqq2rdzby"
+        },
+        {
+          "Name": "label",
+          "Value": "images/10.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lyaPYbKKkfBrfZPHs99/WsV4hPlOY6hxLM7RRQpiLyQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/10.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "604709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lyaPYbKKkfBrfZPHs99/WsV4hPlOY6hxLM7RRQpiLyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lyaPYbKKkfBrfZPHs99/WsV4hPlOY6hxLM7RRQpiLyQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.9frtbirvxj.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "824585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+yjbsGDVuHdM0SCLqVGITJtxPdszpz5SgZXVoCc2EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9frtbirvxj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+yjbsGDVuHdM0SCLqVGITJtxPdszpz5SgZXVoCc2EQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "824585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6+yjbsGDVuHdM0SCLqVGITJtxPdszpz5SgZXVoCc2EQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6+yjbsGDVuHdM0SCLqVGITJtxPdszpz5SgZXVoCc2EQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.0ul671w0q2.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "518534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+EBp/VrEjin482B4VnYUhk3i8XJAab23HbV+G86InOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ul671w0q2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+EBp/VrEjin482B4VnYUhk3i8XJAab23HbV+G86InOM="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "518534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+EBp/VrEjin482B4VnYUhk3i8XJAab23HbV+G86InOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+EBp/VrEjin482B4VnYUhk3i8XJAab23HbV+G86InOM="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.desvcf7coa.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "698743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e8YxfyAZZPnJMDPT49bPZXYtkQzOVnFn59fOCG46/JE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "desvcf7coa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e8YxfyAZZPnJMDPT49bPZXYtkQzOVnFn59fOCG46/JE="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "698743"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e8YxfyAZZPnJMDPT49bPZXYtkQzOVnFn59fOCG46/JE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e8YxfyAZZPnJMDPT49bPZXYtkQzOVnFn59fOCG46/JE="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GCjgLL1ou7zDG5/gPojbQ29b2QHlCtPncuzfQUnKlSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GCjgLL1ou7zDG5/gPojbQ29b2QHlCtPncuzfQUnKlSg="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.o0dw2v3iu4.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97256"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GCjgLL1ou7zDG5/gPojbQ29b2QHlCtPncuzfQUnKlSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o0dw2v3iu4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GCjgLL1ou7zDG5/gPojbQ29b2QHlCtPncuzfQUnKlSg="
+        }
+      ]
+    },
+    {
+      "Route": "images/6.dh1riu8ypf.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QcpBlt5Qvj8srZJi9oAt0y4c/1e0UF9ApFNrmAmgQiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dh1riu8ypf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QcpBlt5Qvj8srZJi9oAt0y4c/1e0UF9ApFNrmAmgQiY="
+        }
+      ]
+    },
+    {
+      "Route": "images/6.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QcpBlt5Qvj8srZJi9oAt0y4c/1e0UF9ApFNrmAmgQiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QcpBlt5Qvj8srZJi9oAt0y4c/1e0UF9ApFNrmAmgQiY="
+        }
+      ]
+    },
+    {
+      "Route": "images/7.5ms3bigfzn.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nebRvJWXH7l5ZEVP23VzQHXsFfNMjNEZUWYhLOGBRuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ms3bigfzn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nebRvJWXH7l5ZEVP23VzQHXsFfNMjNEZUWYhLOGBRuc="
+        }
+      ]
+    },
+    {
+      "Route": "images/7.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "240855"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nebRvJWXH7l5ZEVP23VzQHXsFfNMjNEZUWYhLOGBRuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nebRvJWXH7l5ZEVP23VzQHXsFfNMjNEZUWYhLOGBRuc="
+        }
+      ]
+    },
+    {
+      "Route": "images/8.3cp2b8c5gk.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w/fcgmfwsaYiCR2KHdlckG68RD70nXJJdRzFeMWaLlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3cp2b8c5gk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w/fcgmfwsaYiCR2KHdlckG68RD70nXJJdRzFeMWaLlA="
+        }
+      ]
+    },
+    {
+      "Route": "images/8.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w/fcgmfwsaYiCR2KHdlckG68RD70nXJJdRzFeMWaLlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w/fcgmfwsaYiCR2KHdlckG68RD70nXJJdRzFeMWaLlA="
+        }
+      ]
+    },
+    {
+      "Route": "images/9.4wn9av7v0h.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDc4bOC4atED9pb9SEmzdHW7Ko7Snag8ft/CkMS52vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4wn9av7v0h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDc4bOC4atED9pb9SEmzdHW7Ko7Snag8ft/CkMS52vM="
+        }
+      ]
+    },
+    {
+      "Route": "images/9.jpg",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\images\\9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70085"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDc4bOC4atED9pb9SEmzdHW7Ko7Snag8ft/CkMS52vM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDc4bOC4atED9pb9SEmzdHW7Ko7Snag8ft/CkMS52vM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xkD5uxVB7+38KvFHkalj67qhBgWfPjarhY7+NQovsLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkD5uxVB7+38KvFHkalj67qhBgWfPjarhY7+NQovsLw="
+        }
+      ]
+    },
+    {
+      "Route": "index.mlvprav0n7.html",
+      "AssetFile": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Web_Api_Provider\\Web_Api_Provider\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xkD5uxVB7+38KvFHkalj67qhBgWfPjarhY7+NQovsLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 13:43:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mlvprav0n7"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xkD5uxVB7+38KvFHkalj67qhBgWfPjarhY7+NQovsLw="
+        }
+      ]
+    }
+  ]
+}

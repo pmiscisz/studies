@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B773394B-553E-4AFD-8593-76A02FC160E3}|Lab2.Test\\Lab2.Test.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab2\\lab2.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B773394B-553E-4AFD-8593-76A02FC160E3}|Lab2.Test\\Lab2.Test.csproj|solutionrelative:lab2.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500760AC-3232-4F47-B9B3-223CCA7743A1}|Lab2\\Lab2.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500760AC-3232-4F47-B9B3-223CCA7743A1}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500760AC-3232-4F47-B9B3-223CCA7743A1}|Lab2\\Lab2.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab2\\lab2\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500760AC-3232-4F47-B9B3-223CCA7743A1}|Lab2\\Lab2.csproj|solutionrelative:lab2\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500760AC-3232-4F47-B9B3-223CCA7743A1}|Lab2\\Lab2.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab2\\lab2\\usdcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500760AC-3232-4F47-B9B3-223CCA7743A1}|Lab2\\Lab2.csproj|solutionrelative:lab2\\usdcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\Lab2.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Lab2.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\Lab2.Test\\UnitTest1.cs",
+              "RelativeToolTip": "Lab2.Test\\UnitTest1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:12:51.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsdCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\Lab2\\UsdCourse.cs",
+              "RelativeDocumentMoniker": "Lab2\\UsdCourse.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\Lab2\\UsdCourse.cs",
+              "RelativeToolTip": "Lab2\\UsdCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:44:23.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\Lab2\\Fruit.cs",
+              "RelativeDocumentMoniker": "Lab2\\Fruit.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\Lab2\\Fruit.cs",
+              "RelativeToolTip": "Lab2\\Fruit.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:19:22.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:18:49.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\data\\chinookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:data\\chinookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\views\\home\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:views\\home\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\models\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:models\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:areas\\identity\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab7pm\\views\\home\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF5355C8-5659-F640-3052-61E892D7E35B}|Web_App_DB_First.csproj|solutionrelative:views\\home\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:39:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:39:51.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\Artist.cs",
+              "RelativeToolTip": "Models\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:39:38.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChinookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Data\\ChinookDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ChinookDbContext.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Data\\ChinookDbContext.cs",
+              "RelativeToolTip": "Data\\ChinookDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:39:25.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceLine.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\InvoiceLine.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceLine.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\InvoiceLine.cs",
+              "RelativeToolTip": "Models\\InvoiceLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:02:59.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:44:45.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Views\\Home\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Views\\Home\\MyOrders.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:36:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T11:16:24.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:15:33.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:28:47.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Models\\Album.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Models\\Album.cs",
+              "RelativeToolTip": "Models\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:12:36.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T18:08:52.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T10:21:47.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-09T18:12:10.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Areas\\Identity\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Areas\\Identity\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:17:41.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:12:15.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Views\\Home\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab7PM\\Views\\Home\\OrderDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\OrderDetails.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T12:05:30.52Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

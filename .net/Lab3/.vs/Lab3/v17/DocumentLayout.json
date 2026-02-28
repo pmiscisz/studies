@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab3\\lab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|solutionrelative:lab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab3\\lab3\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|solutionrelative:lab3\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab3\\lab3\\models\\phonebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|solutionrelative:lab3\\models\\phonebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab3\\lab3\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|solutionrelative:lab3\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab3\\lab3\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|solutionrelative:lab3\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab3\\lab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|solutionrelative:lab3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|c:\\users\\patryk\\desktop\\szkola\\.net\\lab3\\lab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4E3D0EC-84E8-4015-85F3-37D05A441EC8}|Lab3\\Lab3.csproj|solutionrelative:lab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Models\\PhoneBookService.cs",
+              "RelativeDocumentMoniker": "Lab3\\Models\\PhoneBookService.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Models\\PhoneBookService.cs",
+              "RelativeToolTip": "Lab3\\Models\\PhoneBookService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T19:10:13.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Lab3\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Models\\Contact.cs",
+              "RelativeToolTip": "Lab3\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:56:01.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:36:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Program.cs",
+              "RelativeToolTip": "Lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:28:03.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Lab3\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "Lab3\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T19:07:53.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab3\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Lab3\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T19:20:54.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T18:33:26.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab3\\Lab3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T18:28:19.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="activity2_name">Activity 2</string>
+
+    <string name="t_name">Imię:</string>
+    <string name="t_lastname">Nazwisko:</string>
+    <string name="t_numberofgrades">Liczba ocen:</string>
+
+    <string name="et_name_hint">Podaj imię</string>
+    <string name="et_lastname_hint">Podaj nazwisko</string>
+    <string name="et_numberofgrades_hint">Podaj liczbę ocen</string>
+
+    <string name="btn_back_text">Cofnij</string>
+    <string name="btn_grades_text">Oceny</string>
+
+
+    <!-- lab 2 -->
+    <string-array name="oceny_array">
+        <item>Assembler</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>Laravel</item>
+        <item>React</item>
+        <item>PHP</item>
+        <item>Cobolt</item>
+        <item>Scratch</item>
+        <item>R</item>
+        <item>Prolog</item>
+        <item>Haskell</item>
+        <item>Bash</item>
+    </string-array>
+
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="oblicz_redni">Oblicz średnią</string>
+
+    <string name="btn_result_succes">Super :)</string>
+    <string name="btn_result_fail">Wysyłam podanie o zaliczenie warunkowe :(</string>
+    <string name="activity2nameAverage">Średnia ocen: %1$.2f</string>
+    <string name="placeholder">placeholder</string>
+    <string name="cofnij">cofnij</string>
+    <string name="to_jest_activity_1">To jest Activity 1</string>
+    <string name="zad_1_1_zrealizowane_na_tym_ekranie">Zad 1.1 zrealizowane na tym ekranie</string>
+    <string name="zad_1_2_zrealizowane_pod_tym_przyciskiem">Zad 1.2 zrealizowane pod tym przyciskiem</string>
+
+</resources>

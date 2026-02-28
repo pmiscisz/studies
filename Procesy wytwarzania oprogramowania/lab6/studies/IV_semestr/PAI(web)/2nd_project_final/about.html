@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="style.css" />
+    <link
+      rel="preconnect"
+      href="https://fonts.googleapis.com" />
+    <link
+      rel="preconnect"
+      href="https://fonts.gstatic.com"
+      crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap"
+      rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Todo</title>
+  </head>
+  <body>
+    <nav>
+      <div class="nav-item"><a href="/index.html">Todo</a></div>
+      <div class="nav-item"><a href="/about.html">About</a></div>
+    </nav>
+    <main>
+      <section class="about">
+        <div id="about_text">
+          <h1>About</h1><br/>
+        </div>
+        <div id="content">
+          <div id="text">          
+            <p>
+              This is a simple todo app built with HTML, CSS, and JavaScript.
+            </p>
+            <p>
+              The app uses the browser's local storage to store the todo items. 
+            </p>
+            <p>
+              It also uses lanyard API to display the user's discord profile picture and nickname.
+            </p>
+          </div> 
+          <div id="img_contener">
+            <img id="pfp" alt="pfp">
+            <p id="nickname">Hello World</p>
+          </div>
+
+        </div>
+        <div id="video">
+          <h2> What did I listen to doing this project? </h2>
+          <div class="container">
+            <iframe class="responsive-iframe" id="yt-player" src="https://www.youtube.com/embed/8-suz3SPaGA" data-external="1"></iframe>
+          </div>
+          <button class="przycisk" id="next-button" onclick="sourceSwap()">Next</button>
+          <script src="about.js"></script>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

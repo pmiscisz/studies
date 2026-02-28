@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>@DateTime.Now.ToString("dddd, dd MMMM yyyy")</p>
+    @{
+        double liczba = (double)ViewData["random"];
+        string zaznaczenie = liczba > 0.5 ? "background-color: red;" : "";
+    }
+    <p style="@zaznaczenie">
+        @liczba
+    </p>
+</div>

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668424393 source:c:\users\patryk\desktop\szko³a\programowanie stukturalne\lab 3\lab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

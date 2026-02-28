@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668977538 source:c:\users\patryk\desktop\szko³a\programowanie stukturalne\lab5zad5.3cz2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,28 @@
+program kol1;
+    #include("stdlib.hhf");
+    static
+        z1: int8:= 0;
+
+begin kol1;
+
+    stdout.put("Program na 5");
+    forever
+        try
+            stdin.get(z1);
+            break;
+        exception(ex.ValueOutOfRange)
+            stdout.put("Value out of range");
+        endtry;
+    endfor;
+    if(z1>0) then
+        stdout.put("PRAXCAa");
+        repeat
+            for(add(0,z3);z3<z1;inc(z3))
+                stdout.puth(z3);
+                if()
+        until(z2==z1);
+
+    else
+        stdout.put("ujemna");
+    endif;
+end kol1;

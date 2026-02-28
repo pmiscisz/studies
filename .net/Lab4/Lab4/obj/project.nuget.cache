@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9PVkwVeG6o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patryk\\Desktop\\szkola\\.net\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patryk\\.nuget\\packages\\magick.net-q8-anycpu\\14.9.0\\magick.net-q8-anycpu.14.9.0.nupkg.sha512",
+    "C:\\Users\\Patryk\\.nuget\\packages\\magick.net.core\\14.9.0\\magick.net.core.14.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

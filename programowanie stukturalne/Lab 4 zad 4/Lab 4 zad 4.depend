@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680039914 source:c:\users\patryk\desktop\szko³a\programowanie stukturalne\lab 4 zad 4\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+
